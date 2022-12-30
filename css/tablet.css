@@ -1,0 +1,39 @@
+@media (max-width: 960px) {
+
+.banner{
+  width: 100%;
+}
+.menu {
+  margin-left: 12%;
+}
+
+.titulo{
+  text-align: center;
+}
+.principal{
+  display: flex;
+  align-items: center;
+}
+.caixa{
+  width:400px;
+  height: 300px;
+}
+.principal2{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.box-pj{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pj{
+  margin-top: 20px;
+}
+.contatos{
+  align-items: center;
+}
+}
+
+  
