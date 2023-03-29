@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Informações como cursos, skills e projetos já realizados.
 
---> Para visualizar o projeto [CLIQUE AQUI](https://giovanna-gs.github.io/)
+--> Para visualizar o projeto [CLIQUE AQUI](https://giovanna-gs.github.io/Portfolio/)
