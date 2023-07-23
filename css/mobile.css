@@ -2,10 +2,7 @@
 body{
   width: 100%
 }
-.box-pj, .principal, .principal2, .contatos ul{
-  display: flex;
-  flex-direction: column;
-}
+
 /* MENU */
 
   #menu {
@@ -74,42 +71,13 @@ body{
     transform: rotate(-135deg);
     top: -7px;
   }
+  /* PROJETOS */
 
-
-/* CURSOS */
-.cursos{
-  text-align: center;
-
-  
-}
-.principal{
-  display: flex;
-  align-items: center;
-}
-/* SKILLS */
-
-.principal2{
-  display: flex;
-  align-items: center;
-}
-/* PROJETOS */
-
-  .pj{
-  margin-top: 20px;
-  
-}
-.pj img{
-  width: 300px;
-  height: 200px;
-
-}
-  .box-pj{
-    align-items: center;
+  .pj img{
+    width: 350px;
+    height: 200px;
   }
-  
 
-/*CONTATOS */
-.contatos{
-  align-items: center;
+  /* FOOTER */
+  
 }
-  }
